@@ -27,7 +27,7 @@ public final class Util {
                 CodeSource codeSource = Evote.class.getProtectionDomain().getCodeSource();
                 File jarFile = new File(codeSource.getLocation().toURI().getPath());
                 String jarDir = jarFile.getParentFile().getPath();
-                fh = new FileHandler(jarDir+"/fpPBO.log");
+                fh = new FileHandler(jarDir+"/EvoteJava.log");
             } catch (IOException e) {
                 e.printStackTrace();
             }
