@@ -11,7 +11,7 @@ Aplikasi ini dibuat untuk memenuhi tugas akhir mata kuliah Pemrograman Berbasis 
 
 Penggunaan Aplikasi :
 
-1. Jika belum pernah menjalankan Aplikasi ini, maka pada saat berada di menu Login mohon tekan CTRL + ALT + S untuk membuka konfigurasi.
+1. Jika belum pernah menjalankan Aplikasi ini, maka pada saat berada di menu Login mohon tekan CTRL + ALT + P untuk membuka konfigurasi.
 2. Isi Konfigurasi mulai dari yang paling kiri (Database, Admin, lalu SMTP) mohon pastikan status Database dan SMTP ada dalam keadaan "Terkoneksi". Jika nanti akan merubah data Admin mohon tekan tombol tes koneksi mysql terlebih dahulu.
 3. Jika ingin merubah tampilan ( Look and Feel ) terdapat dropdown diatas tombol simpan.
 4. Simpan Konfigurasi dan Aplikasi siap digunakan.
