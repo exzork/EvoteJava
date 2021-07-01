@@ -1,5 +1,9 @@
 # EvoteJava
 
+[![GitHub release](https://img.shields.io/github/release/muhammadeko/EvoteJava.svg)](https://github.com/muhammadeko/EvoteJava/releases/)
+[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)    
+
+--------------
 Aplikasi ini dibuat untuk memenuhi tugas akhir mata kuliah Pemrograman Berbasis Objek kelompok 6, Jurusan Informatika, UPN "Veteran" Jawa Timur.
 
 
@@ -45,3 +49,4 @@ Fitur utama Aplikasi E-voting dibagi menjadi 3 berdasarkan menurut pengguna :
 3.	Pemilih
 - Pemilih yang sudah terdaftar dapat mengakses panel user dan sistem akan menampilkan event yang sedang berlangsung berdasarkan dimana pemilih tersebut merupakan DPT dan dapat klik event yang ingin diakses, namun apabila pemilih sudah melakukan pemilihan dalam event tersebut maka event tersebut tidak akan tampil.
 - Setelah mengakses event, sistem akan secara berurut menampilkan salah satu pemilihan dan menampilkan paslon paslon yang tersedia dalam pemilihan tersebut, namun apabila pemilih dapat memencet tombol selanjutnya atau sebelumnya apabila masih kurang yakin dan ingin men-cek pemilihan laiinya terlebih dahulu, dan apabila sudah yakin pemilih dapat memilih dengan mengklik salah satu paslon dari setiap pemilihan dan menyelesaikan pemilihan.
+
